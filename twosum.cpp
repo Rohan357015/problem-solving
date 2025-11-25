@@ -21,4 +21,4 @@ int main() {
     if(t)cout<<"true";
     else cout<<"false";
     
-}
+}de
